@@ -1,4 +1,4 @@
-# 📝 DAIICT B.Tech Student Data Analysis
+#  DAIICT B.Tech Student Data Analysis
 
 ## Introduction
 
@@ -8,7 +8,7 @@ The project culminates in a set of findings and strategic recommendations coveri
 
 ***
 
-## The Dataset 📊
+## The Dataset 
 
 The data comes from a survey of **202 B.Tech students** and originally contained **29 columns**. The key features used in this analysis include:
 
@@ -20,7 +20,7 @@ The data comes from a survey of **202 B.Tech students** and originally contained
 
 ***
 
-## Methodology ⚙️
+## Methodology 
 
 The project was carried out in two main stages: first cleaning the data, and then exploring it through visualizations.
 
@@ -39,7 +39,7 @@ With a clean dataset, the Plotly library was used to generate visualizations to 
 
 ***
 
-## Key Findings and Recommendations 📈
+## Key Findings and Recommendations 
 
 ### Key Findings
 
@@ -69,7 +69,7 @@ By adjusting the admissions process and focusing on a competitive balance, DAIIC
 
 ***
 
-## Repository Contents 📂
+## Repository Contents 
 
 * `Statistics_data_cleaning_and_EDA.ipynb`: The complete Jupyter Notebook with all Python code for data cleaning, preprocessing, and visualization.
 * `DAIICT_Report.pdf`: A formal report summarizing the key findings and strategic recommendations from the analysis.
@@ -79,7 +79,7 @@ By adjusting the admissions process and focusing on a competitive balance, DAIIC
 
 ***
 
-## How to Run 🚀
+## How to Run 
 
 To replicate this analysis, you can follow these steps:
 
